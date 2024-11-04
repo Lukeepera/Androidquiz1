@@ -1,5 +1,6 @@
 package com.example.prcts
 
+import com.example.application1.R
 import android.os.Bundle
 import android.widget.Button
 import android.widget.TextView

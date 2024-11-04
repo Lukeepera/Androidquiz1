@@ -1,10 +1,12 @@
 package com.example.prcts
 
+import com.example.application1.R
 import android.content.Intent
 import android.os.Bundle
 import android.widget.Button
 import android.widget.EditText
 import androidx.appcompat.app.AppCompatActivity
+
 
 class MainActivity : AppCompatActivity() {
 
